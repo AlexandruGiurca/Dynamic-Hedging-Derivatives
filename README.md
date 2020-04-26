@@ -1,1 +1,1 @@
-# Dynamic Hedging Strategy that Replicates the Payoff of Different Derivative
+### Dynamic Hedging Strategy that Replicates the Payoff of Different Derivatives
